@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+
+.main-nav{
+  border-bottom:1px solid #ADB5BD;
+  padding-bottom:10px;
+  font-family: "Lato";
+  font-weight: 400;
+  font-size:20px
+};
+
+.navbar-light .navbar-brand {
+  color: #ADB5BD;
+  font-size:45px;
+  font-family: "Lato" ;
+  font-weight: 400 ;
+}
+
+span.NavbarTitle{
+  color: #495057 !important;
+  font-size:22px !important;
+  font-family: "Lato" !important;
+  font-weight: 400 !important;
+
+}
+
+.nav-link{
+  color:#6C757D !important;
+  font-size:18px;
+  font-family: "Lato";
+  font-weight: 300;
+}

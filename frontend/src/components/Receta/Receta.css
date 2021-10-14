@@ -1,0 +1,43 @@
+.Card{
+    background-color: #edf2f4;
+    height:8rem;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 25px;
+    cursor: pointer;
+    transition: 450ms all;
+    -webkit-transform-origin: center left;
+    transform-origin: center left;
+}
+.Card:hover ~ .Card{
+    -webkit-transform: translate3d(100px, 0, 0);
+    transform: translate3d(100px, 0, 0);
+}
+.Card:hover{
+    opacity: 1;
+    transform: scale(1.5);
+}
+
+.CardImage{
+    height: 80%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+.CardBody{
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+.CardSubtitle{
+    margin-top: 4%;
+    text-align: center;
+}
+.Cardlink{
+    text-decoration: none;
+}
+
+
+  

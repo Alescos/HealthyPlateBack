@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+
+
+.CardPerfil{
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #cce3de;
+  font-family: "Lato",sans-serif;
+}
+
+.CardTitlePerfil {
+  font-weight: 400;
+  font-size:45px;
+  color: #495057;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dropdown-toggle,
+.dropdown-menu {
+  width: 100%;
+  color: #6C757D;
+}
+
+.show>.btn-primary.dropdown-toggle{
+  background-color: #6b9080;
+  border-color: #6b9080;
+  box-shadow: 0 0 0 0.25rem rgba(164, 195, 178, 0.5);
+}
+
+.btn-check:focus+.btn-primary, .btn-primary:focus{
+  background-color: #6b9080;
+  border-color: #6b9080;
+}
+
+.btn-check:active+.btn-primary:focus, .btn-check:checked+.btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show>.btn-primary.dropdown-toggle:focus, .btn-check:focus+.btn-primary, .btn-primary:focus{
+  box-shadow: 0 0 0 0.25rem rgba(164, 195, 178, 0.5);
+}
+
+.dropdown-item{
+  text-align: center;
+}
+
+.DropdownMiPerfil{
+  background-color: white;
+  border-color: white;
+}
+
+.DropdownMiPerfil:hover{
+  background-color: #6b9080;
+  border-color: #6b9080;
+
+}
+
+.g-2{
+  margin: 15px;
+}
+
+.modificarBtn{
+  width:38%;
+  margin-left: 61%;
+  background-color: #A4C3B2;
+  color: #343A40;
+  border-color: #A4C3B2;
+}
+
+.modificarBtn:hover{
+  background-color: #6b9080;
+  border-color: #6b9080;
+}

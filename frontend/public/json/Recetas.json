@@ -1,0 +1,113 @@
+[
+    {
+        "id":1,
+        "name":"Pollo Teriyaki",
+        "makingTime":40,
+        "image":"./img/teriyaki.jpg",
+        "dayTime":"Almuerzo"
+    },
+    {
+        "id":2,
+        "name":"Carne Asada",
+        "image":"./img/carne_asada.jpg",
+        "dayTime":"Desayuno"
+    },
+    {
+        "id":3,
+        "name":"Crema de Tomate",
+        "image":"./img/crema_tomate.jpg",
+        "dayTime":"Almuerzo"
+    },
+    {
+        "id":4,
+        "name":"Ensalada Cesar",
+        "image":"./img/ensalada_cesar.jpg",
+        "dayTime":"Almuerzo"
+    },
+    {
+        "id":5,
+        "name":"File Mignon",
+        "image":"./img/file_mignon.jpg",
+        "dayTime":"Cena"
+    },
+    {
+        "id":6,
+        "name":"Hamburguesa Vegetariana",
+        "image":"./img/hamburguesa_vegetariana.jpg",
+        "dayTime":"Cena"
+    },
+    {
+        "id":7,
+        "name":"Bowl de frutas",
+        "image":"./img/bowl.jpg",
+        "dayTime":"Desayuno"
+    },
+    {
+        "id":2,
+        "name":"Carne Asada",
+        "image":"./img/carne_asada.jpg",
+        "dayTime":"Desayuno"
+    },
+    {
+        "id":7,
+        "name":"Bowl de frutas",
+        "image":"./img/bowl.jpg",
+        "dayTime":"Desayuno"
+    },
+    {
+        "id":2,
+        "name":"Carne Asada",
+        "image":"./img/carne_asada.jpg",
+        "dayTime":"Desayuno"
+    },
+    {
+        "id":7,
+        "name":"Bowl de frutas",
+        "image":"./img/bowl.jpg",
+        "dayTime":"Desayuno"
+    },
+    {
+        "id":5,
+        "name":"File Mignon",
+        "image":"./img/file_mignon.jpg",
+        "dayTime":"Cena"
+    },
+    {
+        "id":6,
+        "name":"Hamburguesa Vegetariana",
+        "image":"./img/hamburguesa_vegetariana.jpg",
+        "dayTime":"Cena"
+    },
+    {
+        "id":5,
+        "name":"File Mignon",
+        "image":"./img/file_mignon.jpg",
+        "dayTime":"Cena"
+    },
+    {
+        "id":6,
+        "name":"Hamburguesa Vegetariana",
+        "image":"./img/hamburguesa_vegetariana.jpg",
+        "dayTime":"Cena"
+    },
+    {
+        "id":3,
+        "name":"Crema de Tomate",
+        "image":"./img/crema_tomate.jpg",
+        "dayTime":"Almuerzo"
+    },
+    {
+        "id":1,
+        "name":"Pollo Teriyaki",
+        "makingTime":40,
+        "image":"./img/teriyaki.jpg",
+        "dayTime":"Almuerzo"
+    },
+    {
+        "id":1,
+        "name":"Pollo Teriyaki",
+        "makingTime":40,
+        "image":"./img/teriyaki.jpg",
+        "dayTime":"Almuerzo"
+    }
+]

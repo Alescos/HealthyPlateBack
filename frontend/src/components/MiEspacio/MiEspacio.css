@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+
+
+.CardMiEspacio{
+  background-color: #cce3de;
+  font-family: "Lato",sans-serif;
+  text-align: center;
+  height: 50vh;
+  width: 98%;
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 50px;
+  margin-bottom:10px;
+}
+
+.CardTitle {
+  font-weight: 400;
+  font-size:45px;
+  color: #495057;
+}
+
+.CardText{
+  font-weight: 300;
+  margin-top:30px;
+  font-size:20px;
+  color: #6C757D;
+}
+
+.CardMiEspacio:hover{
+  box-shadow: 0 8px 16px 0 rgba(107, 144, 128, 0.7);
+}
+
+.CardMiEspacioBody{
+  margin-top:80px;
+}

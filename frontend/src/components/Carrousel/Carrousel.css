@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+.carousel{
+    width: 100%;
+    overflow: scroll;
+    padding: 0px;
+    position: relative;
+
+}
+.carousel::-webkit-scrollbar{
+    display: none;
+}
+.carousel__container{
+    white-space: nowrap;
+    margin: 10px 0px;
+    padding-bottom: 2%;
+}

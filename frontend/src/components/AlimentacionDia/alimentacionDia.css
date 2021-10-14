@@ -1,0 +1,31 @@
+.bodyFoodDay{
+    display: flex;
+    justify-content: space-between;
+}
+.foodBlock{
+    width: auto;
+    height: 100%;
+    padding: 2% 10%;
+    position: relative; 
+
+}
+.foodBlock_title{
+    text-align: center;
+    border-bottom: solid #BDBDBD 2px;
+    color: #666;
+}
+.RecipeofDay{
+    -webkit-transform-origin: none;
+    transform-origin: none;
+    position: absolute;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.RecipeofDay:hover{
+    opacity: 1;
+    transform: scale(1);
+}
+/* .RecipeofDay:hover{
+    -webkit-transform: translate3d(100px, 0, 0);
+    transform: translate3d(100px, 0, 0);
+} */
